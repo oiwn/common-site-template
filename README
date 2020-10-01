@@ -4,11 +4,11 @@ http://django-tinymce.googlecode.com/
 http://code.google.com/p/django-filebrowser/
 http://code.google.com/p/django-grappelli/
 
-INSALLATION
+INSTALLATION
 
 1) install apps from pipreq.txt
 
-DEPLOY
+DEPLOYMENT
 
 1) remove or rename settings_local.py
 
